@@ -41,6 +41,8 @@ O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de L
 
 **Modelos 2:** Exploramos o algoritmo KNN através da modificação da quantidade de vizinhos e normalização dos dados do dataset *Orange Quality Analysis Dataset*
 
+**Modelos 3:** Notebook didático sobre regressão logística que explora dados binários sobre violência contra mulher
+
 # A batalha contra o dragão :dragon::
 Um terrível dragão atacará o reino de Lumi, e é dever de todas as Guildas se preparar para essa terrível batalha. Esse será o trabalho final da disciplina de Aprendizado de Máquina. Iremos induzir um algoritmo preditivo através de aprendizagem de máquina, no qual teremos como **target** o **band-gap de uma célula fotovoltaica** e como **atributos** a **estrutura cristalina, constante dielétrica, densidade e os elementos cosntituintes da célula**. 
 
