@@ -10,11 +10,11 @@ A disciplina de Aprendizado de Máquina é um ambiente gamificado, no qual cada 
 
 A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeiro fulano e pelos magos Patolino e Patolina. 
 
-:new_moon: Guerreira Escuridão:
+:new_moon: Guerreira Escuridão: [Ana Luz]
 
 :mage_man: Mago Patolino: [Caio Matheus](https://github.com/Caiomld)
 
 :mage_woman: Maga Patolina: [Giovana Martins](https://github.com/giovana2005)
 
-:shield: Escudeiro Fulano: [Caio Marcelo](
+:shield: Escudeiro Fulano: [Caio Marcelo](https://github.com/CaioRuas24010)
 
