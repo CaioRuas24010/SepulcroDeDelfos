@@ -23,7 +23,7 @@ A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeir
 # Quests :pushpin::
 O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de Lumi. Esses problemas nos são apresentados através de atividades de Aprendizado de Máquina que estão anexadas neste repositório. Aqui, temos uma pequena introdução sobre o que se trata cada atividade:
 
-**Dados 1:** Realizamos a análise dos datasets Dow Jones, Exercise e Flights>
+**Dados 1:** Realizamos a análise dos datasets Dow Jones, Exercise e Flights.
 
 **Dados 2:** Utilizamos os dados de quantidade de familiares, idade e tarifa paga do dataset Titanic para trabalhar com os normalizadores padrão, máximo/mínimo e máximo absoluto.
 
