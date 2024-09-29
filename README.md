@@ -9,6 +9,7 @@ Neste repositório, iremos adicionar os códigos produzidos pelo grupo *Sepulcro
 <p align="center">
   <a href="[#Apresentando o Sepulcro de Delfos :snake:]">:snake: Apresentando o Sepulcro de Delfos</a> &nbsp;&bull;&nbsp;
   <a href="[#Quests :pushpin:]">:pushpin: Quests</a> &nbsp;&bull;&nbsp;
+  <a href="[#A batalha contra o dragão :dragon:]">:dragon: A batalha contra o dragão</a> &nbsp;&bull;&nbsp
 </p>
  
 
@@ -39,5 +40,10 @@ O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de L
 **Modelos 1:** Alteramos um algoritmo *KNN-regressor* de distância Euclidiana para um algoritmo KNN classificador de distância manhattan.
 
 **Modelos 2:** Exploramos o algoritmo KNN através da modificação da quantidade de vizinhos e normalização dos dados do dataset *Orange Quality Analysis Dataset*
+
+# A batalha contra o dragão :dragon::
+Um terrível dragão atacará o reino de Lumi, e é dever de todas as Guildas se preparar para essa terrível batalha. Esse será o trabalho final da disciplina de Aprendizado de Máquina. Iremos induzir um algoritmo preditivo através de aprendizagem de máquina, no qual teremos como **target** o **band-gap de uma célula fotovoltaica** e como **atributos** a **estrutura cristalina, constante dielétrica, densidade e os elementos cosntituintes da célula**. 
+
+
 
 
