@@ -12,9 +12,9 @@ A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeir
 
 :new_moon: Guerreira Escuridão:
 
-:mage_man: Mago Patolino: <Caiomld (github.com)>
+:mage_man: Mago Patolino: [Caio Matheus}(https://github.com/Caiomld)
 
 :mage_woman: Maga Patolina: [Giovana Martins](https://github.com/giovana2005)
 
-:shield: Escudeiro Fulano:
+:shield: Escudeiro Fulano: [Caio Marcelo](
 
