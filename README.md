@@ -1,4 +1,4 @@
-# SepulcroDeDelfos :skull:
+# :skull: SepulcroDeDelfos 
 
 *"Nossos algoritmos são oráculos, nossos dados são ossos ancestrais"*
 
