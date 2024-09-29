@@ -10,7 +10,7 @@ Neste repositório, iremos adicionar os códigos produzidos pelo grupo *Sepulcro
 # Apresentando o Sepulcro de Delfos :european_castle:
 A disciplina de Aprendizado de Máquina é um ambiente gamificado, no qual cada grupo é uma Guilda formada por escudeiros, magos e guerreiros. O reino de Lumi é um dos mais prósperos do continente de Senepem, e nós, alunos da disciplina, estamos passando por um processo de treinamento para servimos ao reinado.
 
-A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeiro fulano e pelos magos Patolino e Patolina. O Sepulcro de Delfos
+A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeiro fulano e pelos magos Patolino e Patolina. O Sepulcro de Delfos se inspira na linguagem computacional Python. Na mitologia grega, Píton foi uma grande serpente que surgiu após um dilúvio, e de acordo com a lenda, Píton foi o nome original da cidade Delfos, onde se localizava o emblemático oráculo. Essa guilda surge como uma profecia do oráculo, pronta para revolucionar o reino Lumi com seus dados.
 
 :new_moon: Guerreira Escuridão: [Ana Luz]
 
