@@ -24,7 +24,7 @@ A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeir
 
 :mage_woman: **Maga Patolina**: [Giovana Martins](https://github.com/giovana2005)
 
-:shield: **Escudeiro Teseu**: [Caio Marcelo](https://github.com/CaioRuas24010) <img loading="lazy" src="https://avatars.githubusercontent.com/CaioRuas24010" width=115><br> <sub>Caio Ruas<br> [Github](https://github.com/CaioRuas24010)
+:shield: **Escudeiro Teseu**: [Caio Marcelo](https://github.com/CaioRuas24010) <img loading="lazy" src="https://avatars.githubusercontent.com/CaioRuas24010" width=115><br>
 
 # Quests :pushpin::
 O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de Lumi. Esses problemas nos são apresentados através de atividades de Aprendizado de Máquina que estão anexadas neste repositório. Aqui, temos uma pequena introdução sobre o que se trata cada atividade:
