@@ -18,13 +18,13 @@ A disciplina de Aprendizado de Máquina é um ambiente gamificado, no qual cada 
 
 A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeiro fulano e pelos magos Patolino e Patolina. O Sepulcro de Delfos se inspira na linguagem computacional Python. Na mitologia grega, Píton foi uma grande serpente que surgiu após um dilúvio, e de acordo com a lenda, Píton foi o nome original da cidade Delfos, onde se localizava o emblemático oráculo. Essa guilda surge como uma profecia do oráculo, pronta para revolucionar o reino Lumi com seus dados.
 
-:new_moon: **Guerreira Escuridão**: [Ana Luz]
+:new_moon: **Guerreira Escuridão**: [Ana Luz](https://github.com/LuzMendes)
 
 :mage_man: **Mago Patolino**: [Caio Matheus](https://github.com/Caiomld)
 
 :mage_woman: **Maga Patolina**: [Giovana Martins](https://github.com/giovana2005)
 
-:shield: **Escudeiro Fulano**: [Caio Marcelo](https://github.com/CaioRuas24010)
+:shield: **Escudeiro Perseu**: [Caio Marcelo](https://github.com/CaioRuas24010)
 
 # Quests :pushpin::
 O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de Lumi. Esses problemas nos são apresentados através de atividades de Aprendizado de Máquina que estão anexadas neste repositório. Aqui, temos uma pequena introdução sobre o que se trata cada atividade:
