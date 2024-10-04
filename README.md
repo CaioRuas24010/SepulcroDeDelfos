@@ -31,22 +31,26 @@ A seguir estão destacados os trabalhos da Guilda para ajudar o reino, divididos
 # Quests :pushpin::
 O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de Lumi. Esses problemas nos são apresentados através de atividades de Aprendizado de Máquina que estão anexadas neste repositório, na pasta "Quests", com seus devidos enunciados e resoluções. Aqui, temos uma pequena introdução sobre o que se trata cada atividade:
 
-**Dados 1:** Exploramos os datasets Dow Jones, Exercise e Flights, disponíveis no módulo *seaborn*, em busca de explicar as colunas de cada dataset e gerar respectivas estatísticas descritivas.
+**Dados 1:** Exploramos os datasets *Dow Jones*, *Exercise* e *Flights*, disponíveis no módulo `seaborn`, em busca de explicar as colunas de cada dataset e gerar estatísticas descritivas.
 
-**Dados 2:** Utilizamos os dados de quantidade de familiares, idade e tarifa paga do dataset Titanic para trabalhar com os normalizadores padrão, máximo/mínimo e máximo absoluto.
+**Dados 2:** Utilizamos dados do dataset *Titanic*, do módulo `seaborn`, para trabalhar com os normalizadores padrão, máximo/mínimo e máximo absoluto.
 
-**Dados 3:** Utlizamos um dataset produzido em sala de aula para realizar conversão simbolico-numérica de dados não binários.
+**Dados 3:** Utlizamos um dataset produzido em sala de aula para estudar a conversão simbolico-numérica de dados não binários.
 
-**Módulos 1:** Notebook didático sobre o módulo *intertools* do Python.
+**Módulos 1:** Realizamos um notebook didático sobre o módulo `intertools` do Python.
 
-**Modelos 1:** Alteramos um algoritmo *KNN-regressor* de distância Euclidiana para um algoritmo KNN classificador de distância manhattan.
+**Modelos 1:** Alteramos um algoritmo *KNN-regressor* de distância Euclidiana para um algoritmo *KNN classificador* de distância manhattan.
 
-**Modelos 2:** Exploramos o algoritmo KNN através da modificação da quantidade de vizinhos e normalização dos dados do dataset *Orange Quality Analysis Dataset*
+**Modelos 2:** Exploramos o algoritmo *KNN* através da modificação da quantidade de vizinhos e normalização dos dados do dataset *Orange Quality Analysis Dataset*.
 
-**Modelos 3:** Notebook didático sobre regressão logística que explora dados binários sobre violência contra mulher
+**Modelos 3:** Realizamos um notebook didático sobre regressão logística que explora dados binários sobre violência contra mulheres.
+
+Todos os datasets utilizados estão disponíveis junto a pasta de Quests ou podem ser acessados conforme explicado nos respectivos notebooks.
 
 # A batalha contra o dragão :dragon::
-Um terrível dragão atacará o reino de Lumi, e é dever de todas as Guildas se preparar para essa terrível batalha. Esse será o trabalho final da disciplina de Aprendizado de Máquina. Iremos induzir um algoritmo preditivo através de aprendizagem de máquina, no qual teremos como **target** o **band-gap de uma célula fotovoltaica** e como **atributos** a **estrutura cristalina, constante dielétrica, densidade, elementos cosntituintes da célula e energia de formação do átomo**. 
+Um terrível dragão atacará o reino de Lumi, e é dever de todas as Guildas se preparar para essa terrível batalha. Esse será o trabalho final da disciplina de Aprendizado de Máquina, que pode ser acessado na pasta "A_Batalha_Contra_Dragao".
+
+Neste trabalho, iremos induzir um algoritmo preditivo através de aprendizagem de máquina, no qual estudaremos materias para células solares. O objetivo é prever o Band Gap de um material a partir de suas características. Para isso, utilizaremos a base de dados [The Materials Project](https://next-gen.materialsproject.org/).
 
 
 
