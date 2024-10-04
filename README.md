@@ -26,10 +26,12 @@ A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeir
 
 :shield: **Escudeiro Teseu**: [Caio Marcelo](https://github.com/CaioRuas24010)
 
-# Quests :pushpin::
-O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de Lumi. Esses problemas nos são apresentados através de atividades de Aprendizado de Máquina que estão anexadas neste repositório, na pasta "Quests". Aqui, temos uma pequena introdução sobre o que se trata cada atividade:
+A seguir estão destacados os trabalhos da Guilda para ajudar o reino, divididos em Quests (Exercícios ministrados durante a disciplina) e A Batalha Contra o Dragão (Trabalho final da disciplina).
 
-**Dados 1:** Realizamos a análise dos datasets Dow Jones, Exercise e Flights.
+# Quests :pushpin::
+O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de Lumi. Esses problemas nos são apresentados através de atividades de Aprendizado de Máquina que estão anexadas neste repositório, na pasta "Quests", com seus devidos enunciados e resoluções. Aqui, temos uma pequena introdução sobre o que se trata cada atividade:
+
+**Dados 1:** Exploramos os datasets Dow Jones, Exercise e Flights, disponíveis no módulo *seaborn*, em busca de explicar as colunas de cada dataset e gerar respectivas estatísticas descritivas.
 
 **Dados 2:** Utilizamos os dados de quantidade de familiares, idade e tarifa paga do dataset Titanic para trabalhar com os normalizadores padrão, máximo/mínimo e máximo absoluto.
 
