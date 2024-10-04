@@ -27,7 +27,7 @@ A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeir
 :shield: **Escudeiro Teseu**: [Caio Marcelo](https://github.com/CaioRuas24010)
 
 # Quests :pushpin::
-O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de Lumi. Esses problemas nos são apresentados através de atividades de Aprendizado de Máquina que estão anexadas neste repositório. Aqui, temos uma pequena introdução sobre o que se trata cada atividade:
+O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de Lumi. Esses problemas nos são apresentados através de atividades de Aprendizado de Máquina que estão anexadas neste repositório, na pasta "Quests". Aqui, temos uma pequena introdução sobre o que se trata cada atividade:
 
 **Dados 1:** Realizamos a análise dos datasets Dow Jones, Exercise e Flights.
 
