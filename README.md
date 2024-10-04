@@ -2,7 +2,7 @@
 
 *"Nossos algoritmos são oráculos, nossos dados são ossos ancestrais"*
 
-Neste repositório, iremos adicionar os códigos produzidos pelo grupo *Sepulcro de Delfos* na disciplina de Aprendizado de Máquina da Ilum Escola de Ciência, ministrada pelo professor doutor Daniel Roberto Cassar. Os códigos desse repositório foram desenvolvidos utilizando a linguagem de programação Python no Jupyter Notebook.
+Neste repositório, iremos adicionar os códigos produzidos pelo grupo *Sepulcro de Delfos* na disciplina de Aprendizado de Máquina da faculade Ilum - Escola de Ciência (CNPEM), ministrada pelo professor doutor Daniel Roberto Cassar. Os códigos desse repositório foram desenvolvidos utilizando a linguagem de programação Python no Jupyter Notebook.
 
 # !["Badge Ilum"](https://img.shields.io/badge/Ilum%20-%20purple) !["Badge License"](https://img.shields.io/badge/License%20-%20MIT%20-%20green) !["Badge Status"](https://img.shields.io/badge/Status-Em_constru%C3%A7%C3%A3o-yellow) !["Badge Reino"](https://img.shields.io/badge/Reino-Lumi-violet) !["Badge Continente"](https://img.shields.io/badge/Continente-Senepem-red) !["Badge Guilda"](https://img.shields.io/badge/Guilda-Sepulcro_de_Delfos-black)
 
@@ -16,7 +16,7 @@ Neste repositório, iremos adicionar os códigos produzidos pelo grupo *Sepulcro
 # Apresentando o Sepulcro de Delfos :snake:
 A disciplina de Aprendizado de Máquina é um ambiente gamificado, no qual cada grupo é uma Guilda formada por escudeiros, magos e guerreiros. O reino de Lumi é um dos mais prósperos do continente de Senepem, e nós, alunos da disciplina, estamos passando por um processo de treinamento para servimos ao reinado.
 
-A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeiro fulano e pelos magos Patolino e Patolina. O Sepulcro de Delfos se inspira na linguagem computacional Python. Na mitologia grega, Píton foi uma grande serpente que surgiu após um dilúvio, e de acordo com a lenda, Píton foi o nome original da cidade Delfos, onde se localizava o emblemático oráculo. Essa guilda surge como uma profecia do oráculo, pronta para revolucionar o reino Lumi com seus dados.
+A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeiro Teseu e pelos magos Patolino e Patolina. O Sepulcro de Delfos se inspira na linguagem computacional Python. Na mitologia grega, Píton foi uma grande serpente que surgiu após um dilúvio, e de acordo com a lenda, Píton foi o nome original da cidade Delfos, onde se localizava um emblemático oráculo do Deus Apolo. Essa guilda surge como uma profecia do oráculo, pronta para revolucionar o reino Lumi com seus dados.
 
 :new_moon: **Guerreira Escuridão**: [Ana Luz](https://github.com/LuzMendes)
 
