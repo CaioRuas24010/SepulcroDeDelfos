@@ -1,0 +1,501 @@
+﻿_id,DT_NOTIFIC,DT_NASC,NU_IDADE_N,CS_SEXO,CS_RACA,ID_MN_RESI,LOCAL_OCOR,OUT_VEZES,LES_AUTOP,VIOL_FISIC,VIOL_PSICO,VIOL_SEXU,NUM_ENVOLV,AUTOR_SEXO,ORIENT_SEX,IDENT_GEN
+1,02/01/2023,21/03/2008,14,Feminino,Branca,Rio Novo,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Ignorado
+2,01/01/2023,29/11/1976,46,Feminino,Branca,Carmo do Rio Claro,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Ignorado
+3,02/01/2023,10/05/1997,25,Feminino,Parda,Pirapora,Residencia,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+4,02/01/2023,02/10/1982,40,Feminino,Parda,Várzea da Palma,Residencia,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+5,03/01/2023,10/11/2016,6,Feminino,Parda,Guaraciaba,Residencia,Sim,Não,Não,Não,Sim,Um,Masculino,Não se aplica,Não se aplica
+6,03/01/2023,24/08/1968,54,Feminino,Parda,Cajuri,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+7,03/01/2023,17/04/1976,46,Feminino,Parda,Cajuri,Residencia,Sim,Sim,Não,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+8,03/01/2023,22/06/1996,26,Feminino,Branca,Raul Soares,Via pública,Sim,Não,Sim,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+9,02/01/2023,17/06/1960,62,Feminino,Preta,Raul Soares,Via pública,Ignorado,Não,Não,Sim,Não,Dois ou mais,Feminino,Heterossexual,Não se aplica
+10,02/01/2023,04/01/1978,44,Feminino,Parda,Varginha,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+11,02/01/2023,08/05/1991,31,Feminino,Parda,Varginha,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+12,01/01/2023,13/02/2001,21,Feminino,Parda,Antônio Carlos,Residencia,Ignorado,Ignorado,Sim,Não,Não,Dois ou mais,Ambos os sexos,Heterossexual,Não se aplica
+13,01/01/2023,06/05/2005,17,Feminino,Branca,Senhora dos Remédios,"","","","","","","","","",""
+14,03/01/2023,14/04/2002,20,Feminino,Parda,Piedade de Caratinga,Residencia,Sim,Sim,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+15,03/01/2023,11/07/2000,21,Feminino,Parda,Tarumirim,Comercio/Serviços,Não,Não,Sim,Não,Não,Dois ou mais,Feminino,Heterossexual,Não se aplica
+16,02/01/2023,25/08/2003,19,Feminino,Preta,São Gonçalo do Rio Abaixo,Residencia,Não,Sim,Sim,Sim,Não,Um,Feminino,Heterossexual,Ignorado
+17,03/01/2023,22/10/1995,27,Feminino,Parda,Luislândia,Via pública,Sim,Não,Sim,Sim,Não,Dois ou mais,Masculino,Não se aplica,Não se aplica
+18,01/01/2023,07/12/1958,64,Feminino,Preta,Baldim,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+19,01/01/2023,26/09/1995,27,Feminino,Preta,Três Marias,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+20,04/01/2023,27/03/2016,6,Feminino,Parda,Belo Horizonte,Residencia,Ignorado,Não,Sim,Não,Sim,Um,Masculino,Não se aplica,Não se aplica
+21,01/01/2023,24/07/1994,28,Feminino,Ignorado,Belo Horizonte,Via pública,Não,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+22,02/01/2023,20/04/2005,17,Feminino,Parda,Campo Belo,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Ignorado
+23,01/01/2023,30/11/1987,35,Feminino,Parda,Iguatama,Ignorado,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Ignorado
+24,02/01/2023,25/08/1993,29,Feminino,Branca,Iguatama,Residencia,Ignorado,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Ignorado
+25,03/01/2023,24/12/1966,56,Feminino,Branca,Bambuí,Residencia,Ignorado,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+26,05/01/2023,06/11/2006,16,Feminino,Branca,Bambuí,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Ignorado
+27,04/01/2023,12/06/1988,34,Feminino,Parda,Bambuí,Residencia,Não,Sim,Não,Não,Não,Um,Masculino,Ignorado,Ignorado
+28,02/01/2023,05/12/1972,50,Feminino,Branca,Santo Antônio do Amparo,Via pública,Não,Não,Sim,Não,Não,Dois ou mais,Feminino,Não se aplica,Não se aplica
+29,02/01/2023,20/04/1979,43,Feminino,Branca,Santo Antônio do Amparo,Via pública,Não,Não,Sim,Não,Não,Dois ou mais,Feminino,Ignorado,Ignorado
+30,02/01/2023,03/08/1991,30,Feminino,Parda,Patos de Minas,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Ignorado
+31,03/01/2023,05/11/2018,4,Feminino,Parda,Durandé,Residencia,Sim,Não,Não,Não,Sim,Um,Masculino,Não se aplica,Não se aplica
+32,02/01/2023,14/08/1979,43,Feminino,Branca,Manhuaçu,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+33,01/01/2023,23/06/1999,23,Feminino,Parda,Manhuaçu,Residencia,Sim,Não,Não,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+34,02/01/2023,15/03/1996,26,Feminino,Parda,Manhuaçu,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+35,02/01/2023,22/05/2016,6,Feminino,Parda,Uberlândia,Residencia,Sim,Não,Não,Não,Sim,Dois ou mais,Ambos os sexos,Não se aplica,Não se aplica
+36,01/01/2023,09/10/1987,35,Feminino,Branca,Uberlândia,Outro,Não,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+37,03/01/2023,03/05/1998,24,Feminino,Preta,Miraí,Residencia,Não,Não,Não,Não,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+38,03/01/2023,04/01/1975,47,Feminino,Preta,Miraí,Residencia,Não,Não,Não,Sim,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+39,03/01/2023,05/12/1997,25,Feminino,Preta,Miraí,Residencia,Não,Não,Não,Não,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+40,03/01/2023,12/12/2022,0,Feminino,Parda,Miraí,Residencia,Não,Não,Não,Não,Não,Dois ou mais,Masculino,Não se aplica,Não se aplica
+41,03/01/2023,14/11/1984,38,Feminino,Branca,Miraí,Residencia,Não,Não,Não,Sim,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+42,03/01/2023,10/01/1985,37,Feminino,Branca,Miraí,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+43,01/01/2023,15/10/2005,17,Feminino,Branca,Extrema,Residencia,Não,Sim,Sim,Não,Não,Um,Ignorado,Ignorado,Ignorado
+44,02/01/2023,24/12/1974,47,Feminino,Branca,Wenceslau Braz,Outro,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+45,02/01/2023,11/07/1985,36,Feminino,Parda,Poços de Caldas,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+46,03/01/2023,03/04/1999,23,Feminino,Branca,Itajubá,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+47,03/01/2023,18/08/1979,43,Feminino,Branca,Alfenas,Ignorado,Sim,Sim,Não,Não,Não,Um,Feminino,Não se aplica,Não se aplica
+48,01/01/2023,04/06/1998,24,Feminino,Parda,Padre Paraíso,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Ignorado
+49,01/01/2023,25/08/1996,26,Feminino,Preta,Cabeceira Grande,Outro,Sim,Não,Não,Sim,Sim,Um,Masculino,Heterossexual,Ignorado
+50,01/01/2023,24/08/1974,48,Feminino,Branca,Paracatu,Residencia,Sim,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+51,01/01/2023,03/03/1954,68,Feminino,Branca,João Pinheiro,Residencia,Sim,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+52,01/01/2023,08/01/2006,16,Feminino,Parda,Paracatu,Residencia,Sim,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+53,09/01/2023,17/11/1995,27,Feminino,Preta,Argirita,Via pública,Não,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+54,09/01/2023,10/07/2001,21,Feminino,Preta,Argirita,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+55,07/01/2023,15/06/1985,37,Feminino,Branca,Recreio,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Ignorado
+56,09/01/2023,02/08/1995,27,Feminino,Parda,Argirita,Residencia,Não,Sim,Não,Não,Não,Ignorado,Feminino,Homossexual,Não se aplica
+57,09/01/2023,09/08/1988,34,Feminino,Branca,Argirita,Residencia,Não,Sim,Não,Não,Não,Ignorado,Feminino,Heterossexual,Não se aplica
+58,03/01/2023,03/01/2023,0,Feminino,Ignorado,Além Paraíba,Residencia,Sim,Sim,Não,Sim,Não,Um,Feminino,Não se aplica,Não se aplica
+59,09/01/2023,02/09/1983,39,Feminino,Parda,Argirita,Via pública,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+60,09/01/2023,08/06/1982,40,Feminino,Branca,Itamarati de Minas,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Feminino,Homossexual,Transsexual Mulher
+61,06/01/2023,01/02/1994,28,Feminino,Parda,Ibiaí,Via pública,Sim,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+62,05/01/2023,27/06/1996,26,Feminino,Parda,Várzea da Palma,Via pública,Ignorado,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+63,07/01/2023,07/10/2001,21,Feminino,Parda,Várzea da Palma,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+64,06/01/2023,29/08/1977,45,Feminino,Parda,Várzea da Palma,Residencia,Sim,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+65,06/01/2023,13/10/1951,71,Feminino,Parda,Pirapora,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+66,06/01/2023,29/08/1977,45,Feminino,Branca,Várzea da Palma,Residencia,Não,Sim,Sim,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+67,01/01/2023,12/06/2006,16,Feminino,Branca,Bom Jardim de Minas,Via pública,Não,Não,Sim,Sim,Não,Dois ou mais,Feminino,Ignorado,Ignorado
+68,01/01/2023,01/04/1982,40,Feminino,Preta,Rio Preto,Residencia,Sim,Não,Sim,Ignorado,Ignorado,Um,Masculino,Heterossexual,Não se aplica
+69,08/01/2023,10/11/2003,19,Feminino,Branca,Piumhi,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+70,04/01/2023,20/08/2009,13,Feminino,Parda,Piumhi,Residencia,Sim,Sim,Sim,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+71,01/01/2023,27/08/2002,20,Feminino,Branca,Piumhi,Residencia,Não,Não,Sim,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+72,01/01/2023,05/11/2000,22,Feminino,Branca,Capitólio,Via pública,Não,Não,Sim,Sim,Não,Dois ou mais,Feminino,Heterossexual,Não se aplica
+73,01/01/2023,13/04/1980,42,Feminino,Branca,Capitólio,Via pública,Não,Não,Sim,Sim,Não,Dois ou mais,Feminino,Heterossexual,Não se aplica
+74,03/01/2023,14/12/1984,38,Feminino,Branca,Capitólio,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+75,07/01/2023,09/10/1995,27,Feminino,Branca,Passos,Outro,Ignorado,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Ignorado
+76,07/01/2023,12/02/1984,38,Feminino,Preta,Capitólio,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+77,01/01/2023,15/03/1999,23,Feminino,Branca,Capitólio,Via pública,Sim,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+78,01/01/2023,10/12/1982,40,Feminino,Branca,Capitólio,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+79,02/01/2023,09/03/1978,44,Feminino,Branca,São Tomás de Aquino,Residencia,Sim,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+80,09/01/2023,11/04/1999,23,Feminino,Branca,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+81,09/01/2023,09/12/1978,44,Feminino,Preta,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+82,06/01/2023,19/03/2000,22,Feminino,Preta,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+83,06/01/2023,13/04/2001,21,Feminino,Branca,Passos,Ignorado,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+84,05/01/2023,04/01/2007,15,Feminino,Branca,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+85,05/01/2023,10/03/1999,23,Feminino,Parda,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+86,05/01/2023,07/05/2002,20,Feminino,Parda,Passos,Residencia,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+87,05/01/2023,24/09/2002,20,Feminino,Branca,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Feminino,Ignorado,Ignorado
+88,05/01/2023,05/04/2001,21,Feminino,Branca,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+89,05/01/2023,27/12/1983,39,Feminino,Branca,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+90,05/01/2023,07/03/2008,14,Feminino,Branca,Passos,Ignorado,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+91,05/01/2023,03/10/1988,34,Feminino,Parda,Passos,Ignorado,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+92,05/01/2023,11/09/1961,61,Feminino,Branca,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+93,05/01/2023,28/02/1985,37,Feminino,Parda,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+94,05/01/2023,02/04/1996,26,Feminino,Branca,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+95,05/01/2023,18/11/1988,34,Feminino,Branca,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+96,05/01/2023,24/11/1968,54,Feminino,Parda,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Feminino,Ignorado,Ignorado
+97,05/01/2023,18/08/1978,44,Feminino,Branca,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+98,09/01/2023,26/05/1980,42,Feminino,Branca,Passos,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+99,05/01/2023,31/03/1990,32,Feminino,Parda,São José da Barra,Via pública,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+100,04/01/2023,28/07/2006,16,Feminino,Parda,Carmo do Rio Claro,Residencia,Não,Sim,Sim,Não,Não,Um,Ignorado,Heterossexual,Não se aplica
+101,01/01/2023,16/08/1980,42,Feminino,Branca,São Tomás de Aquino,Residencia,Não,Não,Não,Não,Não,Um,Feminino,Heterossexual,Ignorado
+102,06/01/2023,10/12/1965,57,Feminino,Preta,Rubim,Residencia,Sim,Sim,Sim,Não,Não,"",Masculino,Ignorado,Não se aplica
+103,05/01/2023,03/01/2005,18,Feminino,Parda,Medina,Residencia,Sim,Sim,Não,Não,Não,Um,Ignorado,Heterossexual,Ignorado
+104,01/01/2023,08/03/2005,17,Feminino,Parda,Medina,Outro,Sim,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+105,02/01/2023,04/04/2009,13,Feminino,Parda,Poté,Residencia,Ignorado,Não,Não,Não,Sim,Um,Masculino,Ignorado,Ignorado
+106,09/01/2023,19/06/1983,39,Feminino,Branca,Teófilo Otoni,"","","","","","","","","",""
+107,07/01/2023,19/07/1950,72,Feminino,Preta,Campanário,Residencia,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+108,09/01/2023,15/02/1990,32,Feminino,Parda,Franciscópolis,Bar ou similar,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+109,06/01/2023,31/10/1947,75,Feminino,Preta,Catuji,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+110,08/01/2023,15/08/2009,13,Feminino,Parda,Teófilo Otoni,Residencia,Não,Não,Não,Não,Sim,Um,Masculino,Heterossexual,Não se aplica
+111,07/01/2023,15/08/2009,13,Feminino,Parda,Teófilo Otoni,"","","","","","","","","",""
+112,06/01/2023,02/12/2009,13,Feminino,Parda,Teófilo Otoni,Via pública,Não,Não,Sim,Sim,Sim,Um,Masculino,Ignorado,Não se aplica
+113,03/01/2023,15/07/1972,50,Feminino,Parda,Teófilo Otoni,"","","","","","","","","",""
+114,06/01/2023,19/03/1981,41,Feminino,Preta,Catuji,Residencia,Não,Não,Não,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+115,07/01/2023,15/11/1999,23,Feminino,Parda,Padre Paraíso,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+116,04/01/2023,20/12/1999,23,Feminino,Parda,Nanuque,Outro,Não,Não,Sim,Sim,Não,Um,Ignorado,Heterossexual,Não se aplica
+117,02/01/2023,05/01/1989,33,Feminino,Parda,Rio Casca,Bar ou similar,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Transsexual Mulher
+118,05/01/2023,04/05/1988,34,Feminino,Preta,Rio Casca,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Ignorado
+119,03/01/2023,29/08/2001,21,Feminino,Branca,São José do Goiabal,Residencia,Sim,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+120,05/01/2023,02/08/2002,20,Feminino,Branca,Raul Soares,Comercio/Serviços,Sim,Não,Sim,Sim,Sim,Dois ou mais,Masculino,Heterossexual,Não se aplica
+121,09/01/2023,04/05/1988,34,Feminino,Preta,Rio Casca,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+122,05/01/2023,30/01/1952,70,Feminino,Branca,Rio Casca,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+123,09/01/2023,21/12/1983,39,Feminino,Preta,Sericita,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+124,04/01/2023,26/10/1994,24,Feminino,Amarela,Viçosa,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+125,04/01/2023,26/10/1994,24,Feminino,Amarela,Viçosa,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+126,04/01/2023,26/10/1994,24,Feminino,Amarela,Viçosa,Via pública,Não,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+127,02/01/2023,12/06/1986,36,Feminino,Preta,Ponte Nova,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+128,01/01/2023,05/03/1998,24,Feminino,Preta,Ponte Nova,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+129,01/01/2023,11/07/1994,28,Feminino,Preta,Conselheiro Lafaiete,Via pública,Sim,Não,Sim,Sim,Não,Dois ou mais,Feminino,Heterossexual,Ignorado
+130,03/01/2023,22/01/1980,42,Feminino,Ignorado,Conselheiro Lafaiete,Outro,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+131,04/01/2023,07/07/1990,32,Feminino,Branca,Conselheiro Lafaiete,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+132,04/01/2023,30/11/1968,54,Feminino,Branca,Conselheiro Lafaiete,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+133,06/01/2023,22/06/1982,40,Feminino,Branca,Conselheiro Lafaiete,Via pública,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+134,02/01/2023,19/04/1979,43,Feminino,Branca,Conselheiro Lafaiete,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+135,05/01/2023,31/01/1992,30,Feminino,Parda,Jeceaba,Via pública,Sim,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+136,01/01/2023,11/05/1994,28,Feminino,Parda,Carandaí,Bar ou similar,Não,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+137,04/01/2023,03/07/1991,31,Feminino,Parda,Carandaí,Residencia,Sim,Não,Sim,Sim,Sim,Um,Masculino,Heterossexual,Não se aplica
+138,04/01/2023,09/02/1971,51,Feminino,Parda,Carandaí,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+139,03/01/2023,25/12/1978,44,Feminino,Parda,Carandaí,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+140,06/01/2023,06/03/1998,24,Feminino,Parda,Carandaí,Residencia,Não,Sim,Não,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+141,03/01/2023,28/05/1997,25,Feminino,Branca,Soledade de Minas,Via pública,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+142,03/01/2023,18/05/1976,46,Feminino,Parda,Cruzília,Bar ou similar,Ignorado,Não,Sim,Não,Não,Ignorado,Ignorado,Heterossexual,Não se aplica
+143,04/01/2023,28/09/2008,14,Feminino,Parda,Cruzília,Residencia,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+144,02/01/2023,01/01/1962,60,Feminino,Branca,Cruzília,Residencia,Sim,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+145,07/01/2023,24/09/2009,13,Feminino,Branca,Aiuruoca,Residencia,Sim,Sim,Sim,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+146,07/01/2023,03/06/1998,24,Feminino,Branca,Boa Esperança,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+147,09/01/2023,23/07/1984,38,Feminino,Parda,Carmo de Minas,Residencia,Sim,Sim,Não,Sim,Não,Um,Feminino,Heterossexual,Ignorado
+148,04/01/2023,05/05/1999,23,Feminino,Branca,Conceição do Rio Verde,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Ignorado
+149,09/01/2023,09/08/1985,37,Feminino,Preta,Ingaí,Residencia,Não,Sim,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+150,03/01/2023,02/01/1975,48,Feminino,Branca,Itanhandu,Residencia,Não,Sim,Não,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+151,03/01/2023,05/07/1987,35,Feminino,Parda,Ijaci,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+152,03/01/2023,08/10/2000,22,Feminino,Parda,Lavras,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+153,03/01/2023,19/08/1980,42,Feminino,Parda,Ijaci,Residencia,Ignorado,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+154,06/01/2023,21/07/1990,32,Feminino,Parda,Luminárias,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+155,03/01/2023,22/10/1962,60,Feminino,Parda,Santo Antônio do Amparo,Residencia,Ignorado,Não,Não,Não,Sim,Um,Masculino,Heterossexual,Não se aplica
+156,04/01/2023,27/07/2006,16,Feminino,Parda,Lavras,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Ignorado,Heterossexual,Não se aplica
+157,03/01/2023,06/12/1981,41,Feminino,Parda,Lavras,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+158,10/01/2023,04/07/1992,30,Feminino,Branca,Pouso Alto,Residencia,Não,Não,Sim,Sim,Sim,Dois ou mais,Masculino,Não se aplica,Não se aplica
+159,04/01/2023,02/05/2007,15,Feminino,Branca,São Gonçalo do Sapucaí,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+160,03/01/2023,30/03/2001,21,Feminino,Preta,São Lourenço,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+161,01/01/2023,14/11/1968,54,Feminino,Branca,Soledade de Minas,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+162,09/01/2023,04/06/2006,16,Feminino,Branca,Soledade de Minas,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+163,08/01/2023,07/12/1989,33,Feminino,Preta,São Lourenço,Via pública,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+164,09/01/2023,14/10/1979,43,Feminino,Parda,São Thomé das Letras,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+165,07/01/2023,26/11/2009,13,Feminino,Branca,Três Corações,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+166,04/01/2023,23/11/2002,20,Feminino,Branca,Três Corações,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Bissexual,Ignorado
+167,08/01/2023,14/05/1986,36,Feminino,Parda,Três Corações,Residencia,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+168,07/01/2023,27/04/1998,24,Feminino,Parda,Três Pontas,Residencia,Sim,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Ignorado
+169,01/01/2023,05/01/1969,53,Feminino,Branca,Três Pontas,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+170,04/01/2023,16/10/2000,22,Feminino,Parda,Três Pontas,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+171,01/01/2023,14/02/2008,14,Feminino,Parda,Três Pontas,Via pública,Sim,Não,Sim,Sim,Não,Dois ou mais,Ambos os sexos,Heterossexual,Ignorado
+172,04/01/2023,22/04/1986,35,Feminino,Branca,Itamonte,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+173,03/01/2023,11/11/2008,14,Feminino,Branca,Santana do Paraíso,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+174,04/01/2023,12/01/2004,18,Feminino,Parda,Santana do Paraíso,Residencia,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+175,01/01/2023,04/05/2000,22,Feminino,Parda,Ipaba,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+176,02/01/2023,11/10/1999,23,Feminino,Parda,Ipatinga,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Não se aplica,Não se aplica
+177,03/01/2023,09/12/2001,21,Feminino,Preta,Ipatinga,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Ignorado,Ignorado,Ignorado
+178,03/01/2023,30/03/1990,32,Feminino,Parda,São João do Oriente,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+179,01/01/2023,13/01/1986,36,Feminino,Parda,São João do Oriente,Ignorado,Ignorado,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+180,01/01/2023,22/03/1979,43,Feminino,Parda,Ipatinga,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Ignorado,Ignorado,Ignorado
+181,03/01/2023,16/04/1995,27,Feminino,Parda,Santana do Paraíso,Ignorado,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+182,03/01/2023,07/04/1992,30,Feminino,Parda,Ipatinga,Residencia,Ignorado,Não,Sim,Não,Não,Um,Ignorado,Ignorado,Ignorado
+183,05/01/2023,22/11/1980,42,Feminino,Parda,Ipatinga,Ignorado,Ignorado,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+184,05/01/2023,11/10/1999,23,Feminino,Parda,Ipatinga,Ignorado,Ignorado,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+185,02/01/2023,06/06/1981,41,Feminino,Parda,Caratinga,Residencia,Sim,Não,Sim,Sim,Não,Dois ou mais,Ambos os sexos,Ignorado,Não se aplica
+186,01/01/2023,03/06/1996,26,Feminino,Preta,Coronel Fabriciano,Residencia,Não,Não,Sim,Não,Não,Um,Feminino,Homossexual,Ignorado
+187,07/01/2023,01/01/1992,31,Feminino,Parda,Coronel Fabriciano,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Ignorado
+188,08/01/2023,26/07/2000,22,Feminino,Parda,Coronel Fabriciano,Residencia,Ignorado,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+189,08/01/2023,20/10/1976,46,Feminino,Preta,Coronel Fabriciano,Outro,Não,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+190,04/01/2023,27/12/1974,48,Feminino,Parda,Coronel Fabriciano,Residencia,Sim,Não,Sim,Sim,Não,Um,Ignorado,Heterossexual,Ignorado
+191,03/01/2023,17/04/2007,15,Feminino,Parda,Coronel Fabriciano,Residencia,Sim,Sim,Não,Não,Não,Um,Masculino,Ignorado,Ignorado
+192,01/01/2023,29/10/1978,44,Feminino,Preta,Capitão Enéas,"","","","","","","","","",""
+193,09/01/2023,19/12/2006,16,Feminino,Parda,Montes Claros,Residencia,Não,Sim,Sim,Não,Não,Um,Ignorado,Heterossexual,Ignorado
+194,05/01/2023,23/05/2011,11,Feminino,Branca,Claro dos Poções,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Não se aplica,Não se aplica
+195,08/01/2023,02/01/1998,25,Feminino,Parda,Mirabela,Residencia,Sim,Sim,Sim,Sim,Não,Ignorado,Feminino,Homossexual,Transsexual Mulher
+196,08/01/2023,24/10/1993,29,Feminino,Parda,Mirabela,Residencia,Sim,Sim,Sim,Sim,Não,Ignorado,Feminino,Heterossexual,Não se aplica
+197,07/01/2023,25/04/1986,36,Feminino,Branca,Guiricema,Escola,Não,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+198,03/01/2023,11/05/1992,30,Feminino,Branca,Piraúba,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+199,09/01/2023,27/12/1996,26,Feminino,Parda,Brás Pires,Residencia,Sim,Sim,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+200,04/01/2023,03/12/2005,17,Feminino,Parda,Brás Pires,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+201,03/01/2023,14/08/2001,21,Feminino,Branca,Paracatu,Residencia,Não,Não,Não,Não,Sim,Dois ou mais,Masculino,Heterossexual,Não se aplica
+202,01/01/2023,25/11/1997,25,Feminino,Branca,Unaí,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+203,03/01/2023,22/12/2000,22,Feminino,Parda,Unaí,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+204,07/01/2023,17/06/1998,24,Feminino,Preta,Unaí,Via pública,Sim,Não,Sim,Não,Não,Um,Masculino,Bissexual,Ignorado
+205,07/01/2023,16/12/2005,17,Feminino,Ignorado,Unaí,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+206,04/01/2023,16/11/1989,33,Feminino,Parda,São Francisco,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+207,01/01/2023,16/11/2001,21,Feminino,Parda,Unaí,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Ignorado
+208,04/01/2023,21/01/1976,46,Feminino,Parda,"",Residencia,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+209,05/01/2023,19/01/1999,23,Feminino,Parda,Curvelo,Residencia,Sim,Sim,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+210,01/01/2023,08/01/2006,16,Feminino,Preta,Papagaios,Outro,Sim,Não,Sim,Sim,Sim,Um,Masculino,Heterossexual,Ignorado
+211,03/01/2023,16/10/2005,17,Feminino,Parda,Papagaios,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+212,02/01/2023,31/10/2004,18,Feminino,Branca,Prudente de Morais,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Não se aplica,Não se aplica
+213,01/01/2023,20/06/2013,9,Feminino,Parda,Felixlândia,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Não se aplica,Não se aplica
+214,05/01/2023,27/02/1989,33,Feminino,Parda,Três Marias,Via pública,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+215,01/01/2023,14/07/1997,25,Feminino,Branca,Baldim,Residencia,Não,Não,Sim,Não,Não,Um,Ignorado,Ignorado,Ignorado
+216,06/01/2023,12/06/1983,39,Feminino,Parda,Três Marias,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+217,08/01/2023,18/07/1987,35,Feminino,Parda,Três Marias,Residencia,Sim,Não,Sim,Sim,Sim,Um,Masculino,Heterossexual,Não se aplica
+218,02/01/2023,05/02/1951,71,Feminino,Parda,Cedro do Abaeté,"","","","","","","","","",""
+219,01/01/2023,11/12/2015,7,Feminino,Parda,Felixlândia,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Não se aplica,Não se aplica
+220,01/01/2023,09/12/2017,5,Feminino,Parda,Felixlândia,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Não se aplica,Não se aplica
+221,02/01/2023,19/02/2006,16,Feminino,Branca,Santa Rita do Itueto,Via pública,Não,Não,Sim,Não,Sim,Um,Masculino,Heterossexual,Não se aplica
+222,04/01/2023,17/09/1944,78,Feminino,Parda,Peçanha,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Ignorado
+223,06/01/2023,07/07/1972,50,Feminino,Parda,Mantena,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+224,05/01/2023,13/12/2002,20,Feminino,Parda,Conselheiro Pena,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+225,05/01/2023,19/03/1982,40,Feminino,Parda,Fernandes Tourinho,Outro,Não,Não,Não,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+226,02/01/2023,25/03/1946,76,Feminino,Preta,São Francisco de Sales,Residencia,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+227,04/01/2023,16/07/1990,32,Feminino,Branca,Frutal,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+228,06/01/2023,28/01/1994,28,Feminino,Branca,Frutal,Residencia,Ignorado,Não,Não,Sim,Não,Um,Feminino,Não se aplica,Não se aplica
+229,02/01/2023,23/04/2006,16,Feminino,Parda,Conceição das Alagoas,Residencia,Ignorado,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Ignorado
+230,02/01/2023,21/07/1978,44,Feminino,Branca,Conceição das Alagoas,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+231,02/01/2023,26/07/1984,38,Feminino,Branca,Conceição das Alagoas,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+232,05/01/2023,05/02/1982,40,Feminino,Parda,Conceição das Alagoas,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+233,07/01/2023,23/04/2006,16,Feminino,Preta,Conceição das Alagoas,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+234,01/01/2023,18/12/1979,43,Feminino,Parda,Limeira do Oeste,Residencia,Não,Não,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+235,05/01/2023,20/08/1995,27,Feminino,Branca,Frutal,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+236,08/01/2023,31/03/1969,53,Feminino,Branca,Itapagipe,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+237,02/01/2023,09/07/1993,29,Feminino,Branca,Frutal,Residencia,Sim,Não,Não,Não,Sim,Dois ou mais,Masculino,Ignorado,Não se aplica
+238,04/01/2023,10/10/1979,43,Feminino,Branca,Pirajuba,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Ignorado
+239,04/01/2023,01/01/2023,0,Feminino,Parda,Pirajuba,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+240,06/01/2023,23/12/1995,27,Feminino,Branca,Itapagipe,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+241,06/01/2023,29/04/1955,67,Feminino,Preta,Oliveira,Residencia,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Não se aplica,Não se aplica
+242,04/01/2023,12/08/1968,54,Feminino,Parda,Perdigão,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+243,06/01/2023,10/07/1969,53,Feminino,Parda,Pitangui,Residencia,Sim,Ignorado,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+244,04/01/2023,15/04/1980,42,Feminino,Parda,Pitangui,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Ignorado
+245,01/01/2023,27/02/1974,48,Feminino,Parda,Pará de Minas,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+246,02/01/2023,06/07/1966,56,Feminino,Parda,Pará de Minas,Bar ou similar,Sim,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+247,02/01/2023,22/05/1998,24,Feminino,Branca,Candeias,Residencia,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Ignorado
+248,02/01/2023,23/03/1984,38,Feminino,Parda,Carmo do Cajuru,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+249,03/01/2023,04/11/1992,30,Feminino,Ignorado,Carmo do Cajuru,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+250,07/01/2023,14/08/1985,37,Feminino,Parda,Carmo do Cajuru,Via pública,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+251,06/01/2023,13/12/1980,42,Feminino,Parda,Candeias,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+252,01/01/2023,29/07/1980,42,Feminino,Parda,Bom Despacho,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Transsexual Mulher
+253,10/01/2023,27/05/2001,21,Feminino,Parda,Bom Despacho,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+254,08/01/2023,11/11/1992,30,Feminino,Parda,Bom Despacho,Residencia,Ignorado,Não,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+255,07/01/2023,15/08/2003,19,Feminino,Parda,Bom Despacho,Outro,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+256,06/01/2023,09/10/1994,28,Feminino,Branca,Bom Despacho,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+257,03/01/2023,05/12/1962,60,Feminino,Branca,Bom Despacho,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+258,07/01/2023,05/12/1976,46,Feminino,Parda,Formiga,Via pública,Não,Não,Sim,Sim,Não,Um,Feminino,Ignorado,Ignorado
+259,01/01/2023,26/07/1980,42,Feminino,Branca,Formiga,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+260,02/01/2023,28/05/1991,31,Feminino,Preta,Formiga,Residencia,Sim,Sim,Não,Não,Não,Um,Masculino,Heterossexual,Ignorado
+261,07/01/2023,12/05/1997,25,Feminino,Branca,Igaratinga,Residencia,Sim,Não,Sim,Sim,Não,Dois ou mais,Masculino,Ignorado,Não se aplica
+262,07/01/2023,12/06/2016,6,Feminino,Branca,Igaratinga,Residencia,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Não se aplica,Não se aplica
+263,05/01/2023,17/07/2015,7,Feminino,Branca,Itaguara,Residencia,Sim,Não,Sim,Sim,Sim,Um,Masculino,Não se aplica,Não se aplica
+264,06/01/2023,04/12/1976,45,Feminino,Parda,Itaguara,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Não se aplica,Não se aplica
+265,01/01/2023,18/12/1996,26,Feminino,Branca,Itaúna,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Não se aplica,Não se aplica
+266,03/01/2023,31/05/1993,29,Feminino,Parda,Lagoa da Prata,Residencia,Ignorado,Sim,Não,Não,Não,Um,Feminino,Não se aplica,Não se aplica
+267,07/01/2023,22/10/1976,46,Feminino,Parda,Luz,"","","","","","","","","",""
+268,01/01/2023,22/10/2008,14,Feminino,Branca,Luz,"","","","","","","","","",""
+269,03/01/2023,08/04/1993,29,Feminino,Branca,Arcos,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+270,02/01/2023,17/12/1995,27,Feminino,Branca,Araújos,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+271,06/01/2023,23/11/1971,51,Feminino,Parda,Patos de Minas,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+272,04/01/2023,09/06/2001,21,Feminino,Parda,Patos de Minas,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+273,04/01/2023,11/07/1998,24,Feminino,Branca,Patos de Minas,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+274,08/01/2023,30/08/1999,23,Feminino,Parda,Lagoa Formosa,Outro,Ignorado,Não,Não,Não,Sim,Ignorado,Masculino,Ignorado,Ignorado
+275,01/01/2023,24/01/1989,33,Feminino,Parda,Carmo do Paranaíba,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+276,02/01/2023,29/12/2001,20,Feminino,Parda,Serra do Salitre,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+277,05/01/2023,04/07/1993,29,Feminino,Parda,Serra do Salitre,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Feminino,Homossexual,Transsexual Mulher
+278,05/01/2023,08/11/2004,18,Feminino,Branca,Serra do Salitre,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Feminino,Homossexual,Não se aplica
+279,06/01/2023,03/06/2011,11,Feminino,Parda,São Gotardo,Residencia,Não,Sim,Sim,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+280,02/01/2023,12/10/1997,25,Feminino,Parda,Serra do Salitre,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+281,02/01/2023,"",30,Feminino,Parda,Serra do Salitre,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+282,05/01/2023,06/06/2011,11,Feminino,Parda,Serra do Salitre,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Feminino,Heterossexual,Não se aplica
+283,02/01/2023,22/01/1994,28,Feminino,Branca,Serra do Salitre,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+284,05/01/2023,07/05/1986,36,Feminino,Branca,Pará de Minas,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+285,04/01/2023,15/06/2022,0,Feminino,Branca,Patos de Minas,Residencia,Ignorado,Não,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+286,05/01/2023,16/02/2007,15,Feminino,Branca,Patos de Minas,Residencia,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+287,02/01/2023,04/11/1977,45,Feminino,Branca,Patos de Minas,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+288,05/01/2023,14/03/1963,59,Feminino,Parda,Vazante,Residencia,Não,Não,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+289,03/01/2023,07/09/2006,16,Feminino,Branca,Itajubá,Residencia,Não,Não,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+290,03/01/2023,25/08/1972,50,Feminino,Branca,Itajubá,Residencia,Não,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+291,06/01/2023,03/08/1979,43,Feminino,Branca,Itajubá,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+292,05/01/2023,16/09/1950,72,Feminino,Branca,Pedralva,Residencia,Sim,Não,Não,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+293,09/01/2023,19/07/1994,28,Feminino,Branca,Itajubá,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+294,01/01/2023,15/01/1990,32,Feminino,Branca,Paraisópolis,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+295,03/01/2023,17/03/1999,23,Feminino,Branca,Pedralva,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+296,01/01/2023,20/08/1984,38,Feminino,Branca,Ipuiúna,Residencia,Não,Sim,Não,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+297,05/01/2023,18/02/1998,24,Feminino,Branca,Gonçalves,Outro,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+298,07/01/2023,26/01/1982,40,Feminino,"",Delfim Moreira,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+299,03/01/2023,24/07/1953,69,Feminino,"",Delfim Moreira,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+300,03/01/2023,07/10/1999,23,Feminino,Parda,Congonhal,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+301,02/01/2023,20/06/1993,29,Feminino,Branca,Munhoz,Via pública,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Ignorado
+302,08/01/2023,03/07/1973,49,Feminino,Branca,Tocos do Moji,Residencia,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+303,01/01/2023,24/09/1977,45,Feminino,Preta,Borda da Mata,Residencia,Não,Não,Sim,Sim,Não,"",Masculino,Heterossexual,Ignorado
+304,02/01/2023,26/10/1981,41,Feminino,Parda,Uberlândia,Residencia,Sim,Sim,Sim,Sim,Não,Um,Feminino,Ignorado,Não se aplica
+305,09/01/2023,25/09/1996,26,Feminino,Parda,Uberlândia,Bar ou similar,Não,Não,Não,Não,Sim,Dois ou mais,Masculino,Heterossexual,Ignorado
+306,06/01/2023,13/07/1991,31,Feminino,Parda,Tupaciguara,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Ignorado
+307,06/01/2023,05/01/1997,25,Feminino,Parda,Prata,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+308,09/01/2023,25/09/2011,10,Feminino,Branca,Uberlândia,Residencia,Sim,Não,Não,Não,Sim,Dois ou mais,Masculino,Não se aplica,Não se aplica
+309,09/01/2023,25/09/2011,10,Feminino,Branca,Uberlândia,Residencia,Sim,Não,Sim,Não,Sim,Dois ou mais,Masculino,Não se aplica,Não se aplica
+310,08/01/2023,12/09/2004,18,Feminino,Parda,Uberlândia,Residencia,Não,Não,Não,Não,Sim,Dois ou mais,Masculino,Ignorado,Ignorado
+311,08/01/2023,17/05/2006,16,Feminino,Parda,Uberlândia,Outro,Não,Não,Não,Não,Sim,Dois ou mais,Ignorado,Ignorado,Ignorado
+312,06/01/2023,03/10/1994,27,Feminino,Preta,Uberlândia,Via pública,Não,Não,Não,Sim,Sim,Dois ou mais,Masculino,Ignorado,Ignorado
+313,06/01/2023,08/09/1998,23,Feminino,Branca,Uberlândia,Via pública,Não,Sim,Não,Não,Sim,Dois ou mais,Masculino,Heterossexual,Não se aplica
+314,06/01/2023,20/12/2019,3,Feminino,Branca,Uberlândia,Via pública,Ignorado,Não,Não,Não,Não,Dois ou mais,Ambos os sexos,Não se aplica,Não se aplica
+315,06/01/2023,12/09/2008,11,Feminino,Parda,Uberlândia,Residencia,Sim,Não,Não,Não,Sim,Dois ou mais,Masculino,Ignorado,Ignorado
+316,04/01/2023,29/08/1978,44,Feminino,Branca,Uberlândia,Comercio/Serviços,Não,Sim,Sim,Sim,Não,Um,Feminino,Ignorado,Não se aplica
+317,01/01/2023,23/10/1932,90,Feminino,Parda,Uberlândia,Residencia,Ignorado,Sim,Sim,Sim,Não,Um,Feminino,Ignorado,Ignorado
+318,03/01/2023,15/02/1970,52,Feminino,Parda,Uberlândia,Residencia,Não,Sim,Sim,Sim,Não,Um,Feminino,Ignorado,Ignorado
+319,03/01/2023,07/01/1991,31,Feminino,Parda,Uberlândia,Residencia,Sim,Não,Sim,Sim,Não,Um,Feminino,Ignorado,Ignorado
+320,04/01/2023,25/11/1999,23,Feminino,Parda,Uberlândia,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Ignorado
+321,05/01/2023,24/07/1987,35,Feminino,Branca,Uberlândia,Residencia,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Ignorado
+322,09/01/2023,28/11/1985,37,Feminino,Parda,Araçuaí,Residencia,Ignorado,Ignorado,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+323,08/01/2023,17/02/1995,27,Feminino,Branca,Presidente Kubitschek,Via pública,Não,Não,Sim,Sim,Não,Dois ou mais,Feminino,Heterossexual,Não se aplica
+324,07/01/2023,24/05/1979,43,Feminino,Parda,São Gonçalo do Rio Preto,"","","","","","","","","",""
+325,05/01/2023,"",22,Feminino,Branca,Diamantina,Residencia,Ignorado,Não,Não,Sim,Não,Um,Masculino,Heterossexual,Ignorado
+326,10/01/2023,16/01/2003,19,Feminino,Parda,Serra Azul de Minas,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+327,04/01/2023,09/06/1956,66,Feminino,Branca,Itamarandiba,"","","","","","","","","",""
+328,05/01/2023,26/10/1982,40,Feminino,Parda,Angelândia,Outro,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+329,04/01/2023,09/02/2010,12,Feminino,Parda,Conceição do Mato Dentro,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Ignorado
+330,04/01/2023,11/01/1996,26,Feminino,Branca,Barroso,Residencia,Sim,Sim,Não,Não,Não,Um,Ignorado,Ignorado,Ignorado
+331,06/01/2023,04/02/1994,28,Feminino,Parda,Alfenas,Residencia,Sim,Não,Sim,Não,Não,Dois ou mais,Masculino,Não se aplica,Não se aplica
+332,07/01/2023,02/07/2004,18,Feminino,Branca,Alfenas,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+333,02/01/2023,23/02/2017,5,Feminino,Branca,Alfenas,Residencia,"","",Ignorado,Ignorado,Ignorado,Dois ou mais,Masculino,Não se aplica,Não se aplica
+334,06/01/2023,12/12/1989,33,Feminino,Branca,Alfenas,Residencia,Sim,Sim,Sim,Não,Não,Um,Masculino,Heterossexual,Ignorado
+335,01/01/2023,01/10/2013,9,Feminino,Branca,Alfenas,Residencia,Sim,Não,Não,Não,Sim,Um,Masculino,Não se aplica,Não se aplica
+336,01/01/2023,24/06/2012,10,Feminino,Branca,Alfenas,Residencia,Sim,Não,Não,Não,Sim,Dois ou mais,Masculino,Ignorado,Ignorado
+337,03/01/2023,20/03/2014,8,Feminino,Preta,Alfenas,Residencia,"","",Não,Não,Sim,Dois ou mais,Masculino,Não se aplica,Não se aplica
+338,03/01/2023,24/06/1991,31,Feminino,Branca,Serrania,"","","","","","","","","",""
+339,12/01/2023,21/11/2004,18,Feminino,Branca,Juruaia,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+340,03/01/2023,18/04/1991,31,Feminino,Branca,Alfenas,Ignorado,Ignorado,Sim,Não,Não,Não,Um,Feminino,Não se aplica,Não se aplica
+341,03/01/2023,29/04/1993,29,Feminino,Parda,João Monlevade,Via pública,Sim,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+342,01/01/2023,19/01/2003,19,Feminino,Parda,João Monlevade,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+343,05/01/2023,09/06/2004,18,Feminino,Branca,Catas Altas,Residencia,Não,Não,Sim,Sim,Sim,Um,Masculino,Heterossexual,Ignorado
+344,01/01/2023,18/08/1957,65,Feminino,Parda,Itabira,Residencia,Ignorado,Ignorado,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+345,02/01/2023,16/01/2009,13,Feminino,Preta,Ferros,Residencia,Sim,Não,Sim,Sim,Sim,Um,Masculino,Heterossexual,Não se aplica
+346,05/01/2023,30/11/1993,29,Feminino,Parda,Itabira,Outro,Não,Não,Sim,Sim,Não,Dois ou mais,Ignorado,Ignorado,Ignorado
+347,08/01/2023,10/08/1977,45,Feminino,Branca,João Monlevade,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+348,10/01/2023,05/12/1993,29,Feminino,Preta,João Monlevade,Comercio/Serviços,Sim,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+349,12/01/2023,10/03/1987,35,Feminino,Parda,João Monlevade,Residencia,Ignorado,Não,Sim,Não,Não,Ignorado,Ignorado,Heterossexual,Transsexual Mulher
+350,09/01/2023,17/06/2001,21,Feminino,Parda,João Monlevade,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+351,07/01/2023,02/02/2010,12,Feminino,Parda,Dionísio,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+352,12/01/2023,03/06/2007,15,Feminino,Parda,João Monlevade,Residencia,Sim,Sim,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+353,08/01/2023,04/08/1985,37,Feminino,Parda,Virginópolis,Residencia,Sim,Não,Não,Sim,Não,Um,Masculino,Heterossexual,Ignorado
+354,05/01/2023,05/07/1987,35,Feminino,Branca,Santa Margarida,Residencia,Não,Não,Sim,Sim,Sim,Um,Masculino,Heterossexual,Não se aplica
+355,06/01/2023,28/05/1956,65,Feminino,Parda,Abre Campo,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Ignorado
+356,07/01/2023,17/02/1986,36,Feminino,Parda,Caputira,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+357,04/01/2023,07/10/1964,58,Feminino,Preta,Manhuaçu,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+358,05/01/2023,23/03/1998,24,Feminino,Parda,Manhuaçu,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+359,08/01/2023,21/08/1989,33,Feminino,Parda,Manhuaçu,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+360,09/01/2023,10/12/1992,30,Feminino,Preta,Manhuaçu,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Não se aplica,Não se aplica
+361,04/01/2023,17/02/1990,32,Feminino,Branca,Manhuaçu,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+362,05/01/2023,08/11/1991,31,Feminino,Branca,Chalé,Residencia,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+363,03/01/2023,23/10/1998,24,Feminino,Branca,Ituiutaba,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+364,03/01/2023,20/11/2000,22,Feminino,Branca,Ituiutaba,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+365,06/01/2023,10/04/2002,20,Feminino,Parda,Ituiutaba,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+366,05/01/2023,30/05/1990,32,Feminino,Parda,Mateus Leme,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+367,03/01/2023,22/07/2004,18,Feminino,Indígena,Belo Horizonte,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+368,09/01/2023,10/11/1985,37,Feminino,Parda,Mariana,Residencia,Ignorado,Não,Sim,Sim,Não,Um,Feminino,Não se aplica,Não se aplica
+369,11/01/2023,15/06/1982,40,Feminino,Parda,Mariana,Residencia,Ignorado,Sim,Não,Sim,Não,Um,Feminino,Ignorado,Ignorado
+370,02/01/2023,09/06/1989,33,Feminino,Parda,Mariana,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+371,03/01/2023,15/12/2022,0,Feminino,Ignorado,Montes Claros,Ignorado,Ignorado,Ignorado,Não,Não,Não,Dois ou mais,Feminino,Não se aplica,Não se aplica
+372,02/01/2023,06/10/1983,39,Feminino,Parda,Mateus Leme,Residencia,Sim,Sim,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+373,09/01/2023,16/12/1983,39,Feminino,Parda,Mariana,Residencia,Ignorado,Não,Não,Sim,Não,Um,Feminino,Homossexual,Não se aplica
+374,02/01/2023,24/06/2022,0,Feminino,Parda,Mariana,Residencia,Ignorado,Não,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+375,01/01/2023,20/04/2000,22,Feminino,Parda,Belo Horizonte,Residencia,Ignorado,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+376,02/01/2023,17/05/1992,30,Feminino,Parda,Vespasiano,Ignorado,Não,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+377,05/01/2023,01/09/1993,29,Feminino,Ignorado,Contagem,Via pública,Não,Não,Sim,Ignorado,Ignorado,Um,Ignorado,Ignorado,Ignorado
+378,08/01/2023,15/04/1991,31,Feminino,Preta,Belo Horizonte,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Não se aplica,Não se aplica
+379,09/01/2023,26/11/1976,46,Feminino,Parda,Mariana,Residencia,Ignorado,Não,Sim,Sim,Não,Um,Masculino,Não se aplica,Não se aplica
+380,02/01/2023,02/09/1940,82,Feminino,Branca,Belo Horizonte,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+381,05/01/2023,26/09/1955,67,Feminino,Branca,Belo Horizonte,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+382,01/01/2023,22/05/1986,36,Feminino,Parda,Belo Horizonte,Residencia,Ignorado,Não,Sim,Não,Não,Dois ou mais,Ignorado,Heterossexual,Não se aplica
+383,01/01/2023,16/11/1994,28,Feminino,Parda,Mateus Leme,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+384,09/01/2023,03/04/1986,36,Feminino,Indígena,São Joaquim de Bicas,Outro,Não,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+385,05/01/2023,11/12/1995,27,Feminino,Branca,Mateus Leme,Habitação coletiva,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+386,05/01/2023,07/12/1986,36,Feminino,Parda,Belo Horizonte,Residencia,Ignorado,Ignorado,Sim,Ignorado,Ignorado,"",Ignorado,Heterossexual,Ignorado
+387,01/01/2023,20/05/1979,43,Feminino,Parda,Belo Horizonte,Residencia,Ignorado,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+388,05/01/2023,28/04/1943,79,Feminino,Branca,Belo Horizonte,Residencia,Ignorado,Não,Não,Não,Não,Ignorado,Ambos os sexos,Ignorado,Ignorado
+389,15/01/2023,21/08/1980,42,Feminino,Parda,Raul Soares,Residencia,Não,Sim,Não,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+390,05/01/2023,25/01/1960,59,Feminino,Parda,Viçosa,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+391,05/01/2023,27/01/1978,41,Feminino,Branca,Viçosa,Via pública,Sim,Não,Não,Não,Não,Um,Masculino,Ignorado,Ignorado
+392,06/01/2023,09/10/1997,25,Feminino,Branca,Teixeiras,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Ignorado
+393,05/01/2023,16/07/1969,50,Feminino,Parda,Viçosa,Residencia,Sim,Não,Não,Sim,Não,Um,Masculino,Ignorado,Ignorado
+394,05/01/2023,10/06/1982,37,Feminino,Branca,Viçosa,Residencia,Sim,Não,Não,Sim,Não,Um,Masculino,Ignorado,Ignorado
+395,05/01/2023,15/08/1977,42,Feminino,Preta,Viçosa,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Transsexual Mulher
+396,05/01/2023,31/05/1949,69,Feminino,Branca,Viçosa,Residencia,Sim,Não,Não,Sim,Não,Um,Masculino,Ignorado,Ignorado
+397,05/01/2023,12/08/1975,43,Feminino,Parda,Viçosa,Residencia,Ignorado,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+398,05/01/2023,25/05/1964,55,Feminino,Branca,Viçosa,Residencia,Sim,Não,Não,Sim,Não,Um,Masculino,Ignorado,Ignorado
+399,04/01/2023,02/11/1972,50,Feminino,Amarela,Piedade de Ponte Nova,Residencia,Não,Sim,Não,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+400,09/01/2023,27/05/2000,22,Feminino,Parda,Ponte Nova,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+401,13/01/2023,28/04/2006,15,Feminino,Parda,Piedade de Ponte Nova,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+402,05/01/2023,13/03/1982,37,Feminino,Preta,Viçosa,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+403,09/01/2023,07/02/2005,17,Feminino,Branca,Pedra do Anta,Residencia,Sim,Sim,Não,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+404,06/01/2023,04/06/2007,15,Feminino,Branca,Dom Silvério,Residencia,Sim,Sim,Não,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+405,09/01/2023,24/12/2006,16,Feminino,Preta,Santa Cruz do Escalvado,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Ignorado
+406,08/01/2023,21/12/1983,39,Feminino,Preta,Sericita,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+407,07/01/2023,30/03/2000,22,Feminino,Parda,Ponte Nova,Residencia,Sim,Sim,Não,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+408,05/01/2023,01/07/1989,29,Feminino,Preta,Viçosa,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+409,05/01/2023,01/07/1989,29,Feminino,Preta,Viçosa,Via pública,Sim,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+410,02/01/2023,07/07/1982,40,Feminino,Parda,Viçosa,Residencia,Sim,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Ignorado
+411,10/01/2023,09/03/1964,58,Feminino,Parda,Ubaporanga,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+412,13/01/2023,20/05/1973,49,Feminino,Branca,Ubaporanga,Residencia,Sim,Não,Não,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+413,13/01/2023,24/03/1996,26,Feminino,Branca,Coronel Fabriciano,Residencia,Não,Sim,Não,Sim,Não,Um,Feminino,Ignorado,Ignorado
+414,15/01/2023,01/11/1990,32,Feminino,Branca,Coronel Fabriciano,Via pública,Sim,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+415,13/01/2023,"",23,Feminino,Parda,Coronel Fabriciano,Residencia,Ignorado,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+416,08/01/2023,22/04/1994,28,Feminino,Parda,Coronel Fabriciano,Ignorado,Sim,Sim,Sim,Não,Não,Um,Feminino,Homossexual,Transsexual Mulher
+417,03/01/2023,08/05/2008,14,Feminino,Parda,Ipatinga,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+418,13/01/2023,22/12/1991,31,Feminino,Preta,Timóteo,Outro,Sim,Sim,Sim,Sim,Não,Um,Feminino,Ignorado,Ignorado
+419,09/01/2023,21/01/1980,42,Feminino,Parda,Ipatinga,Ignorado,Ignorado,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+420,10/01/2023,13/02/1993,29,Feminino,Parda,Ipatinga,Ignorado,Ignorado,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+421,10/01/2023,"",42,Feminino,Parda,Dom Cavati,Ignorado,Sim,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+422,10/01/2023,02/10/2001,21,Feminino,Parda,Ipatinga,Ignorado,Ignorado,Não,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+423,10/01/2023,23/02/2019,3,Feminino,Parda,Ipatinga,Outro,Ignorado,Não,Não,Não,Sim,Um,Masculino,Não se aplica,Não se aplica
+424,12/01/2023,20/02/1989,33,Feminino,Parda,Ipatinga,Ignorado,Sim,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+425,12/01/2023,25/08/1976,46,Feminino,Parda,Imbé de Minas,Via pública,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Ignorado,Não se aplica
+426,09/01/2023,"",41,Feminino,Parda,Inhapim,Residencia,Sim,Não,Sim,Não,Não,"","",Heterossexual,Não se aplica
+427,08/01/2023,23/09/1985,37,Feminino,Parda,Várzea da Palma,Bar ou similar,Não,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+428,06/01/2023,29/11/1964,58,Feminino,Preta,Pirapora,Residencia,Ignorado,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+429,07/01/2023,16/11/1977,45,Feminino,Parda,Várzea da Palma,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+430,04/01/2023,16/10/2005,17,Feminino,Parda,Várzea da Palma,Residencia,Não,Sim,Não,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+431,12/01/2023,30/01/1972,50,Feminino,Parda,Várzea da Palma,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+432,12/01/2023,18/01/2007,15,Feminino,Parda,Várzea da Palma,Residencia,Sim,Não,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+433,08/01/2023,08/05/1988,34,Feminino,Branca,Além Paraíba,Ignorado,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Ignorado
+434,11/01/2023,06/07/1997,25,Feminino,Branca,Cataguases,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Transsexual Mulher
+435,04/01/2023,26/08/2000,22,Feminino,Branca,Leopoldina,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+436,08/01/2023,10/05/1981,41,Feminino,Branca,Leopoldina,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+437,04/01/2023,06/03/2020,2,Feminino,Preta,Pirapetinga,Residencia,Sim,Não,Sim,Não,Sim,Um,Masculino,Não se aplica,Não se aplica
+438,17/01/2023,05/12/1997,25,Feminino,Parda,Volta Grande,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+439,17/01/2023,02/05/2007,15,Feminino,Parda,Volta Grande,Residencia,Não,Sim,Sim,Não,Não,"","",Heterossexual,Não se aplica
+440,16/01/2023,23/10/1998,23,Feminino,Branca,Volta Grande,Residencia,Não,Sim,Sim,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+441,09/01/2023,29/09/1980,42,Feminino,Branca,Baldim,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+442,13/01/2023,17/05/2001,21,Feminino,Branca,Capim Branco,Via pública,Não,Não,Não,Não,Sim,Um,Masculino,Heterossexual,Não se aplica
+443,02/01/2023,13/01/1990,32,Feminino,Branca,Sete Lagoas,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+444,09/01/2023,05/07/2018,4,Feminino,Parda,Inimutaba,"","","","","","","","","",""
+445,07/01/2023,16/09/1992,30,Feminino,Parda,Sete Lagoas,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Ignorado,Ignorado
+446,10/01/2023,14/03/2005,17,Feminino,Parda,Sete Lagoas,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+447,08/01/2023,18/07/1987,35,Feminino,Branca,Três Marias,Residencia,Não,Não,Sim,Sim,Sim,Um,Masculino,Heterossexual,Não se aplica
+448,06/01/2023,04/07/1994,28,Feminino,Parda,Curvelo,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+449,16/01/2023,13/07/1972,50,Feminino,Preta,Curvelo,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+450,07/01/2023,18/05/2001,21,Feminino,Branca,Sete Lagoas,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+451,11/01/2023,14/02/1985,37,Feminino,Parda,Três Marias,Via pública,Não,Não,Sim,Não,Não,Um,Feminino,Não se aplica,Não se aplica
+452,11/01/2023,30/11/2004,18,Feminino,Parda,Três Marias,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+453,12/01/2023,19/01/2008,14,Feminino,Branca,Três Marias,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+454,09/01/2023,06/03/1983,39,Feminino,Parda,Felixlândia,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+455,05/01/2023,01/01/1975,48,Feminino,Branca,Jequitibá,"","","","","","","","","",""
+456,07/01/2023,09/11/1989,33,Feminino,Parda,Paraopeba,Residencia,Sim,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+457,04/01/2023,14/04/2003,19,Feminino,Parda,Paraopeba,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+458,10/01/2023,15/01/1965,57,Feminino,Preta,Carmo do Rio Claro,Residencia,Sim,Não,Sim,Não,Não,"",Masculino,Heterossexual,Não se aplica
+459,05/01/2023,03/07/1994,28,Feminino,Parda,Monte Santo de Minas,Residencia,Sim,Sim,Não,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+460,08/01/2023,18/06/1980,42,Feminino,Parda,Monte Santo de Minas,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+461,06/01/2023,31/01/1990,30,Feminino,Preta,São Sebastião do Paraíso,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+462,15/01/2023,10/05/1997,25,Feminino,Branca,Itaú de Minas,Residencia,Não,Não,Sim,Não,Não,Dois ou mais,Masculino,Homossexual,Não se aplica
+463,15/01/2023,13/08/1975,47,Feminino,Branca,Piumhi,Bar ou similar,Sim,Sim,Sim,Sim,Não,Um,Feminino,Heterossexual,Não se aplica
+464,13/01/2023,11/07/1986,36,Feminino,Branca,Piumhi,Residencia,Sim,Não,Sim,Sim,Não,"",Masculino,Heterossexual,Não se aplica
+465,05/01/2023,25/04/2010,12,Feminino,Branca,"",Via pública,Não,Não,Não,Não,Sim,Um,Masculino,Ignorado,Ignorado
+466,11/01/2023,05/03/2010,12,Feminino,Branca,Passos,Ignorado,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+467,13/01/2023,19/10/2003,19,Feminino,Parda,Passos,Ignorado,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+468,13/01/2023,21/06/1991,31,Feminino,Branca,Passos,Ignorado,Ignorado,Sim,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+469,13/01/2023,01/04/2002,20,Feminino,"",Teófilo Otoni,Residencia,Sim,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+470,04/01/2023,28/01/1991,31,Feminino,Preta,Teófilo Otoni,"","","","","","","","","",""
+471,14/01/2023,09/06/1980,42,Feminino,Parda,Teófilo Otoni,"","","","","","","","","",""
+472,09/01/2023,08/04/1976,46,Feminino,Parda,Bertópolis,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+473,09/01/2023,26/04/2003,19,Feminino,Parda,Catuji,Residencia,Sim,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+474,05/01/2023,06/08/2007,15,Feminino,Parda,Novo Cruzeiro,Residencia,Não,Sim,Não,Não,Não,Um,Feminino,Ignorado,Ignorado
+475,08/01/2023,22/04/1995,27,Feminino,Branca,São José do Divino,Outro,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+476,08/01/2023,16/10/1967,55,Feminino,Parda,Teófilo Otoni,"","","","","","","","","",""
+477,02/01/2023,10/01/2001,21,Feminino,Parda,Novo Cruzeiro,Via pública,Não,Não,Sim,Sim,Sim,Um,Masculino,Heterossexual,Não se aplica
+478,10/01/2023,15/03/1965,57,Feminino,Parda,Padre Paraíso,Residencia,Sim,Não,Sim,Sim,Não,Dois ou mais,Feminino,Heterossexual,Ignorado
+479,10/01/2023,31/08/2018,4,Feminino,Parda,Padre Paraíso,Residencia,Sim,Não,Sim,Sim,Não,Um,Feminino,Não se aplica,Não se aplica
+480,12/01/2023,30/10/2000,22,Feminino,Parda,Caraí,Residencia,Sim,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+481,11/01/2023,18/11/2002,20,Feminino,Indígena,Ladainha,Residencia,Ignorado,Não,Sim,Não,Não,Um,Masculino,Não se aplica,Não se aplica
+482,12/01/2023,15/12/2012,10,Feminino,Parda,Santa Helena de Minas,Residencia,Não,Não,Sim,Sim,Sim,Um,Masculino,Heterossexual,Não se aplica
+483,11/01/2023,27/11/2000,22,Feminino,Parda,Teófilo Otoni,"","","","","","","","","",""
+484,15/01/2023,18/02/2000,22,Feminino,Parda,Teófilo Otoni,"","","","","","","","","",""
+485,10/01/2023,08/02/1995,27,Feminino,Parda,Conselheiro Lafaiete,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Homossexual,Não se aplica
+486,16/01/2023,30/12/1999,23,Feminino,"",Barbacena,Residencia,Ignorado,Ignorado,Sim,Não,Não,Um,Masculino,Ignorado,Ignorado
+487,09/01/2023,26/01/1986,36,Feminino,Parda,Conselheiro Lafaiete,Residencia,Não,Não,Sim,Sim,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+488,05/01/2023,08/03/1996,26,Feminino,Branca,Conselheiro Lafaiete,Via pública,Sim,Sim,Sim,Não,Não,Dois ou mais,Masculino,Heterossexual,Não se aplica
+489,08/01/2023,20/04/2001,21,Feminino,Ignorado,Barbacena,Ignorado,Ignorado,Ignorado,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+490,11/01/2023,01/04/1957,65,Feminino,Branca,Conselheiro Lafaiete,Residencia,Não,Não,Sim,Não,Não,Um,Feminino,Ignorado,Ignorado
+491,10/01/2023,01/01/1980,43,Feminino,Preta,Conselheiro Lafaiete,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+492,14/01/2023,27/11/1998,24,Feminino,Ignorado,Barbacena,Ignorado,Ignorado,Ignorado,Sim,Não,Não,Um,Ignorado,Ignorado,Ignorado
+493,12/01/2023,18/02/2001,21,Feminino,Parda,Carandaí,Residencia,Não,Não,Sim,Não,Não,Um,Masculino,Heterossexual,Não se aplica
+494,06/01/2023,03/06/2012,10,Feminino,Parda,Congonhas,Residencia,Não,Não,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+495,06/01/2023,21/09/1994,28,Feminino,Parda,Congonhas,Residencia,Não,Não,Sim,Sim,Não,Um,Masculino,Heterossexual,Não se aplica
+496,06/01/2023,12/04/1977,45,Feminino,Parda,Congonhas,Residencia,Não,Não,Sim,Sim,Não,Dois ou mais,Feminino,Heterossexual,Não se aplica
+497,17/01/2023,30/12/1963,59,Feminino,Preta,Cipotânea,Residencia,Sim,Não,Sim,Sim,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+498,17/01/2023,18/07/1979,43,Feminino,Parda,Cipotânea,Residencia,Sim,Não,Sim,Sim,Não,Dois ou mais,Masculino,Ignorado,Ignorado
+499,07/01/2023,29/05/2003,19,Feminino,Parda,Conselheiro Lafaiete,Residencia,Não,Sim,Sim,Não,Não,Um,Feminino,Heterossexual,Não se aplica
+500,08/01/2023,04/07/1989,33,Feminino,Branca,Sobrália,Ignorado,Ignorado,Não,Sim,Ignorado,Ignorado,Um,Masculino,Ignorado,Ignorado
