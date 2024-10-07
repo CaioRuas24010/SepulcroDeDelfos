@@ -48,10 +48,13 @@ O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de L
 Todos os datasets utilizados estão disponíveis junto a pasta de Quests ou podem ser acessados conforme explicado nos respectivos notebooks.
 
 # A batalha contra o dragão :dragon:
-Um terrível dragão atacará o reino de Lumi, e é dever de todas as Guildas se preparar para essa terrível batalha. Esse será o trabalho final da disciplina de Aprendizado de Máquina, que pode ser acessado na pasta A Batalha Contra Dragao.
+Um terrível dragão atacará o reino de Lumi, e é dever de todas as Guildas se preparar para essa terrível batalha. Para enfrentar esse desafio, o trabalho final da disciplina de Aprendizado de Máquina foi dividido em quatro tarefas principais (4 cadernos jupyter), e os resultados podem ser encontrados na pasta [A Batalha Contra o Dragão](https://github.com/CaioRuas24010/SepulcroDeDelfos/tree/main/A%20Batalha%20Contra%20Dragao).
 
-Neste trabalho, iremos induzir um algoritmo preditivo através de aprendizagem de máquina, no qual estudaremos materias para células solares. O objetivo é prever o Band Gap de um material a partir de suas características. Para isso, utilizaremos a base de dados [The Materials Project](https://next-gen.materialsproject.org/).
+Neste trabalho, nosso objetivo é induzir um algoritmo preditivo através de aprendizagem de máquina para auxiliar na batalha. Buscamos prever o Band Gap de diferentes materiais para células solares a partir de suas características, com o intuito de encontrar o material ideal para a construção de um escudo mágico que protegerá o reino de Lumi. Para isso, utilizaremos a base de dados do [The Materials Project](https://next-gen.materialsproject.org/).
 
+As quatro tarefas que compõem este trabalho são:
 
-
-
+* [Exploração e preparação dos dados](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/A%20Batalha%20Contra%20Dragao/introducao.ipynb): Nesta etapa, exploramos os dados do The Materials Project, selecionamos os atributos relevantes para a previsão do Band Gap e realizamos o pré-processamento dos dados, como tratamento de valores faltantes e normalização.
+* [Implementação do modelo k-NN](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/A%20Batalha%20Contra%20Dragao/modelo_dos_k-nn_vizinhos.ipynb): Implementamos o algoritmo k-vizinhos mais próximos (k-NN) no arquivo "modelo_dos_k-nn_vizinhos.ipynb" para prever o Band Gap a partir de atributos como densidade, energia de formação por átomo, número de sítios, simetria codificada, constante dielétrica e número atômico médio.
+* [Construção da Árvore de Decisão](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/A%20Batalha%20Contra%20Dragao/arvore_de_decisao.ipynb): No arquivo "arvore_de_decisao.ipynb", construímos uma Árvore de Decisão e otimizamos os hiperparâmetros do modelo para obter a melhor performance na previsão do Band Gap.
+* [Comparação e conclusão](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/A%20Batalha%20Contra%20Dragao/conclusao.ipynb): No arquivo "conclusao.ipynb", comparamos os modelos k-NN e Árvore de Decisão utilizando as métricas de desempenho MSE e RMSE. Os resultados mostraram que a Árvore de Decisão apresentou melhor desempenho na previsão do Band Gap, sendo a escolhida para a construção do escudo mágico.
