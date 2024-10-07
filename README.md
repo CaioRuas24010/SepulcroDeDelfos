@@ -31,19 +31,19 @@ A seguir estão destacados os trabalhos da Guilda para ajudar o reino, divididos
 # Quests :pushpin::
 O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de Lumi. Esses problemas nos são apresentados através de atividades de Aprendizado de Máquina que estão anexadas neste repositório, na pasta "Quests", com seus devidos enunciados e resoluções. Aqui, temos uma pequena introdução sobre do que se trata cada atividade:
 
-**Dados 1:** Exploramos os datasets *Dow Jones*, *Exercise* e *Flights*, disponíveis no módulo `seaborn`, em busca de explicar as colunas de cada dataset e gerar estatísticas descritivas.
+[**Dados 1:**](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/Quests/Dados_1.ipynb) Exploramos os datasets *Dow Jones*, *Exercise* e *Flights*, disponíveis no módulo `seaborn`, em busca de explicar as colunas de cada dataset e gerar estatísticas descritivas.
 
-**Dados 2:** Utilizamos dados do dataset *Titanic*, do módulo `seaborn`, para trabalhar com os normalizadores padrão, máximo/mínimo e máximo absoluto.
+[**Dados 2:**](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/Quests/Dados_2.ipynb) Utilizamos dados do dataset *Titanic*, do módulo `seaborn`, para trabalhar com os normalizadores padrão, máximo/mínimo e máximo absoluto.
 
-**Dados 3:** Utlizamos um dataset produzido em sala de aula para estudar a conversão simbolico-numérica de dados não binários.
+[**Dados 3:**](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/Quests/Dados_3.ipynb) Utlizamos um dataset produzido em sala de aula para estudar a conversão simbolico-numérica de dados não binários.
 
-**Módulos 1:** Realizamos um notebook didático sobre o módulo `intertools` do Python.
+[**Módulos 1:**](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/Quests/M%C3%B3dulos_1.ipynb) Realizamos um notebook didático sobre o módulo `intertools` do Python.
 
-**Modelos 1:** Alteramos um algoritmo *KNN-regressor* de distância Euclidiana para um algoritmo *KNN classificador* de distância manhattan.
+[**Modelos 1:**](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/Quests/Modelos_1.ipynb) Alteramos um algoritmo *KNN-regressor* de distância Euclidiana para um algoritmo *KNN classificador* de distância manhattan.
 
-**Modelos 2:** Exploramos o algoritmo *KNN* através da modificação da quantidade de vizinhos e normalização dos dados do dataset *Orange Quality Analysis Dataset*.
+[**Modelos 2:**](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/Quests/Modelos_2.ipynb) Exploramos o algoritmo *KNN* através da modificação da quantidade de vizinhos e normalização dos dados do dataset *Orange Quality Analysis Dataset*.
 
-**Modelos 3:** Realizamos um notebook didático sobre regressão logística que explora dados binários sobre violência contra mulheres.
+[**Modelos 3:**](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/Quests/Modelos_3.ipynb) Realizamos um notebook didático sobre regressão logística que explora dados binários sobre violência contra mulheres.
 
 Todos os datasets utilizados estão disponíveis junto a pasta de Quests ou podem ser acessados conforme explicado nos respectivos notebooks.
 
