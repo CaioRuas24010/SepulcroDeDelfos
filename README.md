@@ -28,7 +28,7 @@ A guilda Sepulcro de Delfos é composta pela guerreira Escuridão, pelo escudeir
 
 A seguir estão destacados os trabalhos da Guilda para ajudar o reino, divididos em Quests (Exercícios ministrados durante a disciplina) e A Batalha Contra o Dragão (Trabalho final da disciplina).
 
-# Quests :pushpin::
+# Quests :pushpin:
 O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de Lumi. Esses problemas nos são apresentados através de atividades de Aprendizado de Máquina que estão anexadas neste repositório, na pasta "Quests", com seus devidos enunciados e resoluções. Aqui, temos uma pequena introdução sobre do que se trata cada atividade:
 
 [**Dados 1:**](https://github.com/CaioRuas24010/SepulcroDeDelfos/blob/main/Quests/Dados_1.ipynb) Exploramos os datasets *Dow Jones*, *Exercise* e *Flights*, disponíveis no módulo `seaborn`, em busca de explicar as colunas de cada dataset e gerar estatísticas descritivas.
@@ -47,8 +47,8 @@ O Sepulcro de Delfos é responsável por solucionar problemas dos cidadãos de L
 
 Todos os datasets utilizados estão disponíveis junto a pasta de Quests ou podem ser acessados conforme explicado nos respectivos notebooks.
 
-# A batalha contra o dragão :dragon::
-Um terrível dragão atacará o reino de Lumi, e é dever de todas as Guildas se preparar para essa terrível batalha. Esse será o trabalho final da disciplina de Aprendizado de Máquina, que pode ser acessado na pasta "A_Batalha_Contra_Dragao".
+# A batalha contra o dragão :dragon:
+Um terrível dragão atacará o reino de Lumi, e é dever de todas as Guildas se preparar para essa terrível batalha. Esse será o trabalho final da disciplina de Aprendizado de Máquina, que pode ser acessado na pasta A Batalha Contra Dragao.
 
 Neste trabalho, iremos induzir um algoritmo preditivo através de aprendizagem de máquina, no qual estudaremos materias para células solares. O objetivo é prever o Band Gap de um material a partir de suas características. Para isso, utilizaremos a base de dados [The Materials Project](https://next-gen.materialsproject.org/).
 
