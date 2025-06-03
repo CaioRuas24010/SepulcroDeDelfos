@@ -1,6 +1,6 @@
 # :skull: SepulcroDeDelfos 
 
-*"Nossos algoritmos são oráculos, nossos dados são ossos ancestrais"*
+*"Nossos algoritmos são oráculos, nossos dados são ossos ancestrais."*
 
 Neste repositório, iremos adicionar os códigos produzidos pelo grupo *Sepulcro de Delfos* na disciplina de Aprendizado de Máquina da faculade Ilum - Escola de Ciência (CNPEM), ministrada pelo professor doutor Daniel Roberto Cassar. Os códigos desse repositório foram desenvolvidos utilizando a linguagem de programação Python no Jupyter Notebook.
 
